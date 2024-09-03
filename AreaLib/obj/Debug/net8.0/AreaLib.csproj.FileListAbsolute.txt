@@ -1,0 +1,14 @@
+/Users/admin/VSCodeProjects/AreaLib/bin/Debug/net8.0/AreaLib
+/Users/admin/VSCodeProjects/AreaLib/bin/Debug/net8.0/AreaLib.deps.json
+/Users/admin/VSCodeProjects/AreaLib/bin/Debug/net8.0/AreaLib.runtimeconfig.json
+/Users/admin/VSCodeProjects/AreaLib/bin/Debug/net8.0/AreaLib.dll
+/Users/admin/VSCodeProjects/AreaLib/bin/Debug/net8.0/AreaLib.pdb
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.AssemblyInfoInputs.cache
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.AssemblyInfo.cs
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.csproj.CoreCompileInputs.cache
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.dll
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/refint/AreaLib.dll
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.pdb
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/AreaLib.genruntimeconfig.cache
+/Users/admin/VSCodeProjects/AreaLib/obj/Debug/net8.0/ref/AreaLib.dll
